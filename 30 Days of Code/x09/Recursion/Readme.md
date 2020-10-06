@@ -6,7 +6,7 @@ Today, we're learning and practicing an algorithmic concept called Recursion. Ch
 
 **Recursive Method for Calculating Factorial**
 
-![Recursive-Method](https://raw.githubusercontent.com/NelsonMigliarini/hacker-rank/master/30 Days of Code/x09/Recursion/Recursive-method.png)
+![Recursive-Method](https://raw.githubusercontent.com/NelsonMigliarini/hacker-rank/master/30%20Days%20of%20Code/x09/Recursion/Recursive-method.png)
 
 **Task**
 Write a factorial function that takes a positive integer, **N** as a parameter and prints the result of **N!** (**N** factorial).

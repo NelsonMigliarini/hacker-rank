@@ -17,7 +17,7 @@ Complete the Student class by writing the following:
   4. An integer array (or vector) of test scores, **scores**.
 - A char calculate() method that calculates a Student object's average and returns the grade character representative of their calculated average:
 
-![Grading.png](https://raw.githubusercontent.com/NelsonMigliarini/hacker-rank/master/30 Days of Code/x12/Inheritance/Grading.png)
+![Grading.png](https://raw.githubusercontent.com/NelsonMigliarini/hacker-rank/master/30%20Days%20of%20Code/x12/Inheritance/Grading.png)
 
 ___
 

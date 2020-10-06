@@ -1,4 +1,4 @@
-package x26.Nested.Logic;
+package x26.NestedLogic;
 
 import java.util.Scanner;
 
