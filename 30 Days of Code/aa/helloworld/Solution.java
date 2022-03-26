@@ -18,7 +18,7 @@ public class Solution {
 	}
 
 	private static String getInputString() {
-		try (Scanner sc = new Scanner(in)) {
+		try (var sc = new Scanner(in)) {
 			return sc.nextLine();
 		}
 	}
