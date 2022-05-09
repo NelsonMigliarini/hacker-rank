@@ -1,0 +1,26 @@
+<!-- @author Nelson Migliarini -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="Stylesheet" href="css/binaryCalculator.css" type="text/css" />
+    <meta charset="utf-8" />
+    <meta name="author" content="Nelson Migliarini" />
+    <title>Buttons Grid</title>
+  </head>
+  <body>
+    <div> 
+      <div id="res" class="response"></div>
+      <div id="btns">
+        <button id="btn0" class="numberButton" onClick="addCero()">0</button>
+        <button id="btn1" class="numberButton" onClick="addOne()">1</button>
+        <button id="btnClr" class="controlButton" onClick="clean()">C</button>
+        <button id="btnEql" class="controlButton" onclick="resolve()">=</button>
+        <button id="btnSum" class="operationButton" onClick="addSum()">+</button>
+        <button id="btnSub" class="operationButton" onClick="addSub()">-</button>
+        <button id="btnMul" class="operationButton" onClick="addMul()">*</button>
+        <button id="btnDiv" class="operationButton" onClick="addDiv()">/</button>
+      </div>
+    </div>
+    <script src="js/binaryCalculator.js" type="text/javascript"></script>
+  </body>
+</html>
