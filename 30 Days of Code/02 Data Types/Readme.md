@@ -1,10 +1,10 @@
 # Data Types
 
-**Objective**
+## Objective
 
 Today, we're discussing data types. Check out the [Tutorial](https://www.hackerrank.com/challenges/30-data-types/tutorial) tab for learning materials and an instructional video!
 
-**Task**
+## Task
 
 Complete the code in the editor below. The variables **i**, **d**, and **s** are already declared and initialized for you. You must:
 
@@ -17,6 +17,8 @@ Complete the code in the editor below. The variables **i**, **d**, and **s** are
 
 **Note**: If you are using a language that doesn't support using **+** for string concatenation (e.g.: C), you can just print one variable immediately following the other on the same line. The string provided in your editor must be printed first, immediately followed by the string you read as input.
 
-___
+---
 
-HackerRank challenge | [https://www.hackerrank.com/challenges/30-data-types/problem](https://www.hackerrank.com/challenges/30-data-types/problem)
+**HackerRank Challenge** &#10;
+
+&nbsp;&nbsp;&nbsp;&nbsp;Data Types | [https://www.hackerrank.com/challenges/30-data-types/problem](https://www.hackerrank.com/challenges/30-data-types/problem)
