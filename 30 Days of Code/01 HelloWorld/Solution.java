@@ -57,8 +57,8 @@ class MessageDTO {
   @Override
   public boolean equals(Object compared) {
     boolean isEquals;
-    if (compared == null) {
-      isEquals = false;
+    if (compared == this) {
+      isEquals = true;
     } else if (!(compared instanceof MessageDTO)) {
       isEquals = false;
     } else {
