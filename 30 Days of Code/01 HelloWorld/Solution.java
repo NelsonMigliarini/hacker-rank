@@ -21,8 +21,7 @@ class MessageService {
   private static MessageService instance;
   private static final String baseMessage = "Hello, World.%n%s";
 
-  private MessageService() {
-  }
+  private MessageService() {}
 
   public static MessageService getInstance() {
     if (instance == null) {
