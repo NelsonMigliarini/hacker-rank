@@ -9,11 +9,14 @@ import java.io.PrintStream;
 import org.junit.Before;
 import org.junit.Test;
 
+/**
+ * @author Nelson Migliarini
+ */
 public class SolutionTest {
   private static final ByteArrayOutputStream output = new ByteArrayOutputStream();
   
   @Before
-  public void setUpStreams() {
+  public void setOutputStream() {
     setOut(new PrintStream(output));
   }
 
