@@ -1,10 +1,10 @@
 # Intro to Conditional Statements
 
-**Objective**
+## Objective
 
 In this challenge, we're getting started with conditional statements. Check out the [Tutorial](https://www.hackerrank.com/challenges/30-conditional-statements/tutorial) tab for learning materials and an instructional video!
 
-**Task**
+## Task
 
 Given an integer, **n**, perform the following conditional actions:
 
@@ -15,7 +15,9 @@ Given an integer, **n**, perform the following conditional actions:
 
 Complete the stub code provided in your editor to print whether or not **n** is weird.
 
-___
+---
 
-HackerRank challenge | [https://www.hackerrank.com/challenges/30-conditional-statements/problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem)
+**HackerRank Challenge** &#10;
+
+&nbsp;&nbsp;&nbsp;&nbsp;Intro to Conditional Statements | [https://www.hackerrank.com/challenges/30-conditional-statements/problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem)
 
